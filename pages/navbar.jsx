@@ -11,6 +11,9 @@ export const Navbar = () => {
       <Link href="/contact">
         <span className="links">Contact us</span>
       </Link>
+      <Link href="/users">
+        <span className="links">Users</span>
+      </Link>
     </div>
   );
 };
